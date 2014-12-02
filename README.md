@@ -9,6 +9,8 @@ formatted files from latest Windows OS including Windows 8/8.1
 
 File system it supports includes FAT, FAT12, FAT16, FAT32, NTFS, NTFS5 etc. 
 
+http://www.stellarinfo.com/partition-recovery.htm
+
 <a href="http://www.stellarinfo.com/screenshots/windows-data-recovery-version-pro-6.0/1.jpg"><img src="http://www.stellarinfo.com/screenshots/windows-data-recovery-version-pro-6.0/1.jpg" /></a>
 
 
